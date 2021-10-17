@@ -1,0 +1,30 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "An APP for managing info on various members of a team",
+  "main": "index.js",
+  "directories": {
+    "test": "test",
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "node": "^16.10.0"
+  },
+  "devDependencies": {
+    "jest": "^27.2.5"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Honorinenn/Team-Profile-Generator.git"
+  },
+  "author": "Honorine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Honorinenn/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/Honorinenn/Team-Profile-Generator#readme"
+}

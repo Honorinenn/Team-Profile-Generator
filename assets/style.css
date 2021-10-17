@@ -1,0 +1,27 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+li:hover {
+    background-color: darkkhaki;
+}
+
+a .container-fluid {
+    color: darkred;
+}
+a:hover {
+    background-color: lavenderblush;        
+    border-radius: 10%;
+}
+
+.bg-dark {
+    background-color: red!important;
+}
+
+.bg-info {
+    background-color: #561df5!important;
+}
+
+.bg-success {
+    background-color: blue!important;
+}
